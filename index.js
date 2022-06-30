@@ -6,3 +6,7 @@ console.log("hello, world!");
 
 
 console.log("sossy sossy bitch im bossy flossy uuuuuuhhh");
+
+
+
+Added new things from second branch.
